@@ -1,0 +1,2 @@
+composer require Package-Name
+composer dump-autoload -o
